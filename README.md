@@ -215,6 +215,7 @@ Mais `AsyncTask` reste utile pour l’apprentissage du multithreading.
 
 ---
 
+https://github.com/user-attachments/assets/7a400a18-4c84-4e58-ada7-a85df5a730b1
 
 
 # 👨‍💻 Auteur
